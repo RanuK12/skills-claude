@@ -21,3 +21,7 @@ Cada skill es un archivo `.skill` (empaquetado) que contiene `SKILL.md` con inst
 
 ## Uso
 Importar los archivos `.skill` en Claude Desktop o en la configuración de Claude Code.
+
+## Licencia
+
+MIT — © 2026 Ranuk IT Solutions | ranuk.dev
